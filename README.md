@@ -1,6 +1,6 @@
 ##DL23_Project_G5
 
-| Rank | Languages |sssss| 
+| Title | Contents |Time| 
 |-----:|-----------|-----:|
 |     1| Javascript|ssssss|
 |     2| Python    |ssssss|
