@@ -1,5 +1,10 @@
-# DL23_Project_G5
+##DL23_Project_G5
 
-
-
-good thingssssssssssssssssssssssssssssssssssssssssssss
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+|     4| SQL       |
+|     5| SQL       |
+|     6| SQL       |
