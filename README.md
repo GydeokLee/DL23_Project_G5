@@ -1,8 +1,8 @@
 ##DL23_Project_G5
 
-| Rank | Languages ||sssss| 
+| Rank | Languages |sssss| 
 |-----:|-----------|
-|     1| Javascriptffkfklfkalfkalkfslfkaskflkasflkasfkalsfkalskflaskflkasflkasfkalkflaskfk|
+|     1| Javascriptf|
 |     2| Python    |
 |     3| SQL       |
 |     4| SQL       |
