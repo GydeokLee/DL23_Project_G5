@@ -1,7 +1,7 @@
 ##DL23_Project_G5
 
 | Title | Contents |Time| 
-|-----:|-----------||
+|-----:|-----------|dddddd|
 |Play the audio file| Javascript|7 min|
 |Create a photo|Based on the information we heard, generate a picture collectively.|7 min|
 |     3| SQL       |10 min|
