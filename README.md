@@ -1,7 +1,7 @@
 ##DL23_Project_G5
 
 | Title | Contents |Time| 
-|-----:|-----------|----------|
+|-----|-----------|----------|
 |Listening|Play an audio file about "The Ants and the Grasshopper".|5 min|
 |Creating|Based on the information we heard, generate a picture collectively.|7 min|
 |Posting|Post the generated picture on Paddlelet.|7 min|
