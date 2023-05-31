@@ -1,5 +1,7 @@
 ## DL23_Project_G5
 
+https://github.com/GydeokLee/DL23_Project_G5/blob/main/Untitled1.ipynb
+
 | Title | Contents |Time| 
 |-----|-----------|----------|
 |:heart:Listening|Play an audio file about "Two Travelers and a Bear".|5 min|
