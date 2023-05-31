@@ -1,6 +1,6 @@
 ## DL23_Project_G5
 
-https://github.com/GydeokLee/DL23_Project_G5/blob/main/Untitled1.ipynb
+[go to G5 lesson](https://github.com/GydeokLee/DL23_Project_G5/blob/main/Untitled1.ipynb)
 
 | Title | Contents |Time| 
 |-----|-----------|----------|
