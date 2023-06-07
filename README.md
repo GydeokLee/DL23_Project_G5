@@ -1,6 +1,6 @@
 ## 📗Learning with Story📗
 
-[Click Here!](https://colab.research.google.com/github/GydeokLee/DL23_Project_G5/blob/main/G5%20%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C.ipynb)
+[You can see the tools and materials used in our lesson](https://colab.research.google.com/github/GydeokLee/DL23_Project_G5/blob/main/G5%20%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C.ipynb)
 
 ⭐Target student: 1st grade in middle school
 
