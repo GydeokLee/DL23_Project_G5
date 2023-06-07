@@ -2,13 +2,13 @@
 
 [You can go to the page that we will use during the class.](https://github.com/GydeokLee/DL23_Project_G5/blob/main/Untitled1.ipynb)
 
-ㅁTarget student: 1st grade in middle school
-Kind of class: story based words learning
+⭐Target student: 1st grade in middle school
+⭐Kind of class: story based words learning
 
-Learning time: 50min
-Goals
- 1. After listening and understanding English phrase, students can express it with images.
- 2. Students can explain meaning of words learning today.
+⭐Learning time: 50min
+⭐Goals
+  1. After listening and understanding English phrase, students can express it with images.
+  2. Students can explain meaning of words learning today.
 
 | Title | Contents |Time| 
 |-----|-----------|----------|
