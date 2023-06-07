@@ -11,6 +11,7 @@
 ⭐Goals
   1. After listening and understanding English phrase, students can express it with images.
   2. Students can explain meaning of words learning today.
+  
 
 | Title | Contents |Time| 
 |-----|-----------|----------|
