@@ -1,8 +1,9 @@
-## 📗Learning Various Expressions Using Aesop's Fables📗
+## 📗Learning with Story📗
 
-[You can go to the page that we will use during the class.](https://github.com/GydeokLee/DL23_Project_G5/blob/main/Untitled1.ipynb)
+[You can go to the page that we will use during the class.](https://colab.research.google.com/github/GydeokLee/DL23_Project_G5/blob/main/G5%20%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C.ipynb)
 
 ⭐Target student: 1st grade in middle school
+
 ⭐Kind of class: story based words learning
 
 ⭐Learning time: 50min
