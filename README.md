@@ -1,4 +1,4 @@
-##:green_book: Learning Various Expressions Using Aesop's Fables
+## |:green_book|:Learning Various Expressions Using Aesop's Fables
 
 [You can go to the page that we will use during the class.](https://github.com/GydeokLee/DL23_Project_G5/blob/main/Untitled1.ipynb)
 
