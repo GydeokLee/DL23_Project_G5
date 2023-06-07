@@ -4,6 +4,7 @@
 
 Target student: 1st grade in middle school
 Kind of class: story based words learning
+
 Learning time: 50min
 Goals
  1. After listening and understanding English phrase, students can express it with images.
