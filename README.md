@@ -1,6 +1,6 @@
 ## 📗Learning with Story📗
 
-[Click here! You can see the tools and materials used in our lesson.] https://naver.me/G1F30n09)
+[Click here! You can see the tools and materials used in our lesson.]https://naver.me/G1F30n09)
 
 ⭐Target student: 1st grade in middle school
 
