@@ -1,5 +1,7 @@
 ## 📗Learning with Story📗
 
+[Group video](https://youtu.be/ZA_QdBxEq3c)
+
 [Click here! You can see the tools and materials used in our lesson.](https://colab.research.google.com/github/Son324/DL23_Project_G5/blob/main/G5_%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C.ipynb#scrollTo=_KGDHyg_vgTI)
 
 ⭐Kind of class: story based words learning
