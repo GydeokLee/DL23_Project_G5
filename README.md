@@ -7,6 +7,8 @@
 
 ⭐Target student: 1st grade in middle school(25 Students)
 
+⭐This class will be a group activity.
+
 ⭐Learning time: 50min
 
 ⭐Goals
