@@ -7,7 +7,7 @@
 
 ⭐Target student: 1st grade in middle school(25 Students)
 
-⭐This class will be a group activity.
+⭐This class involves collaborative group activities.
 
 ⭐Learning time: 50min
 
