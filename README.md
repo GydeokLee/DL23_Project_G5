@@ -5,7 +5,7 @@
 ⭐Kind of class: story based words learning
 
 
-⭐Target student: 1st grade in middle school
+⭐Target student: 1st grade in middle school(25 Students)
 
 ⭐Learning time: 50min
 
@@ -17,9 +17,9 @@
 
 | Title | Contents |Time| 
 |-----|-----------|----------|
-|:heart:1. Listening the story|Play an audio file about "Two Travelers and a Bear".|5 min|
-|:heartpulse: 2. Creating image|Based on the information we heard, generate a picture collectively. [Creating images](https://www.bing.com/images/create?form=FLPGEN)|10 min|
-|:yellow_heart: 3. Sharing the pictures|Post the generated picture on [Padlet](https://padlet.com/).|5 min|
+|:heart:1. Listening the story|Play an audio file about "Two Travelers and a Bear".|3 min|
+|:heartpulse: 2. Creating image|Based on the information we heard, generate a picture collectively. [Creating images](https://www.bing.com/images/create?form=FLPGEN)|8 min|
+|:yellow_heart: 3. Sharing the pictures|Post the generated picture on [Padlet](https://padlet.com/).|2 min|
 |:green_heart: 4. Making a presentation|Ask the students why they created the picture and have them give a presentation about it.|10 min|
 |:blue_heart: 5. Learning about expressions|Present the pictures the teacher has prepared and study the text with the students.|10 min| [Script](http:///C:/Users/lkd01/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%9D%B4%EC%86%9D%EC%9A%B0%ED%99%94.png)
-|:purple_heart: 6. Checking the contents|The students solve a fill-in-the-blank quiz based on the photo materials. And share the answers together.|10 min|
+|:purple_heart: 6. Checking the contents|The students solve a fill-in-the-blank quiz based on the photo materials. And share the answers together.|12 min|
