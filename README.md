@@ -9,7 +9,7 @@
 
 ⭐This class involves collaborative group activities.
 
-⭐Learning time: 50min
+⭐Learning time: 45min
 
 ⭐Goals
   1. After listening and understanding English phrase, students can express it with images.
